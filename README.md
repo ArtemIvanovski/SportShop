@@ -1,5 +1,10 @@
 # SportShop - Система управления спортивным магазином
 
+[![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+[![Language](https://img.shields.io/badge/language-C%2B%2B-00599C.svg)](https://isocpp.org/)
+[![Standard](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple.svg)](https://visualstudio.microsoft.com/)
+
 ## Описание
 
 SportShop - это консольное приложение на C++ для управления спортивным магазином. Система предоставляет полный функционал для работы с товарами, заказами, пользователями и бонусной программой.
@@ -168,6 +173,15 @@ sport-shop.exe
 - Standard Template Library (STL)
 - Windows API для работы с консолью
 - Файловая система C++17
+
+## Возможные улучшения
+
+- [ ] Миграция на реляционную базу данных (SQLite/MySQL)
+- [ ] Веб-интерфейс вместо консольного приложения
+- [ ] Расширенная система отчетности с графиками
+- [ ] Интеграция с внешними системами бухгалтерии
+- [ ] Многопользовательский режим работы
+- [ ] Система резервного копирования данных
 
 ## Лицензия
 
